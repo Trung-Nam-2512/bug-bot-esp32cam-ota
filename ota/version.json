@@ -1,0 +1,6 @@
+{
+  "version": "1.2.0",
+  "firmware_url": "https://github.com/Trung-Nam-2512/bug-bot-esp32cam-ota/releases/download/v1.2.0/firmware.bin",
+  "api_key": "bugbot-ota-2026-03-02",
+  "notes": "Base OTA release for ESP32-CAM"
+}
