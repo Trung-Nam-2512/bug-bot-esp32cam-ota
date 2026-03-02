@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "firmware_url": "https://github.com/Trung-Nam-2512/bug-bot-esp32cam-ota/releases/download/v1.2.1/firmware.bin",
+  "version": "1.2.2",
+  "firmware_url": "https://github.com/Trung-Nam-2512/bug-bot-esp32cam-ota/releases/download/v1.2.2/firmware.bin",
   "api_key": "bugbot-ota-check-update",
-  "notes": "Release v1.2.1 for OTA validation"
+  "notes": "Release v1.2.2 for fleet rollout"
 }
